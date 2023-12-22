@@ -1,0 +1,7 @@
+Green,Alex,+725,adsdsds
+White,James,+796,don't know
+Brown,Kasper,+999,dssd
+Riddick,Jammee,+869,fdssdf
+Potter,Harry,+8932,a wizard
+Weasly,Ron,+7798,lol
+
